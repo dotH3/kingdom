@@ -30,7 +30,7 @@ Posts are written in Markdown and include frontmatter with the following fields:
 - `date`: Publication date
 - `desc`: Short description
 - `tags`: Array of tags
-- `slug`: URL-friendly identifier
+- `postSlug`: URL-friendly identifier
 - `draft`: Whether the post is a draft
 
 Enjoy writing!
